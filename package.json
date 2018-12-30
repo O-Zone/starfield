@@ -15,6 +15,7 @@
   "license": "WTFPL",
   "dependencies": {},
   "devDependencies": {
-    "budo": "^11.5.0"
+    "budo": "^11.5.0",
+    "less": "^3.9.0"
   }
 }
