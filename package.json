@@ -12,5 +12,9 @@
     "stars"
   ],
   "author": "Hasse Feldthaus",
-  "license": "WTFPL"
+  "license": "WTFPL",
+  "dependencies": {},
+  "devDependencies": {
+    "budo": "^11.5.0"
+  }
 }
