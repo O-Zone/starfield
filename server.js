@@ -1,7 +1,9 @@
+console.log('server.js: Server bootstrap ready');
+
 var budo = require('budo');
 var babelify = require('babelify');
 
-budo('./src/index.js', {
+budo('./js/index.js', {
     open: true,             // Open std browser
     live: true,             // setup live reload
     port: 8000,             // use this port

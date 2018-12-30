@@ -1,3 +1,3 @@
 $(document).ready(function () {
-    console.log('Page ready');
+    console.log('js/main.js: Page ready');
 });
